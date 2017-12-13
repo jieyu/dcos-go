@@ -30,6 +30,7 @@ Going forward we will be creating guidelines for vendoring dependencies in this 
 ## Packages In This Library
 - [jwt/transport](/jwt/transport/README.md) : JWT token support.
 - [store](/store/README.md) : In-Memory key/value store.
+- [zkstore](/zkstore/README.md): ZK-based blob storage.
 - [dcos/nodeutil](/dcos/nodeutil/README.md) : Interact with DC/OS services and variables
 - [elector](/elector/README.md): Leadership election.
 
